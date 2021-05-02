@@ -17,6 +17,8 @@
             <a>List three</a>
         </li>
     </ul>
+    <hr />
+    <h4>-Footer text-</h4>
 </body>
 
 </html>
