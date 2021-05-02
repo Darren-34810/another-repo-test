@@ -9,6 +9,7 @@
 
 <body>
     <h1>Hello World!</h1>
+    <hr />
     <ul>
         <li>
             <a>List one</a>
